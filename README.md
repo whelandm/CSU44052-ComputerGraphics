@@ -1,4 +1,4 @@
-# CSU44052 - ComputerGraphics - Final Project
+# CSU44052 - Computer Graphics - Final Project
 Final submission for Computer Graphics module. Full explanation as well as link to video demonstration included in the Final Report.
 
 ## Assignment Specification
