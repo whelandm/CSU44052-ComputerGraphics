@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(877,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(880,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(883,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(886,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(899,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(900,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(904,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(907,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\Lab04\main.cpp(908,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lab04.vcxproj -> C:\Users\megan\Desktop\CSU44052 - Computer Graphics\Labs\CSU44052 - Final Assignment\\build\executables\Debug\Lab 04.exe
